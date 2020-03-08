@@ -23,18 +23,13 @@ The goal of wcdmx is to ...
 
 ## Installation
 
-You can install the released version of wcdmx from [CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("wcdmx")
-```
-
-And the development version from [GitHub](https://github.com/) with:
+You can install the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
 devtools::install_github("alberto-mateos-mo/wcdmx")
 ```
+
 ## Example
 
 This is a basic example which shows you how to solve a common problem:
