@@ -1,0 +1,14 @@
+Package: wcdmx
+Title: wcdmx
+Version: 0.0.0.9000
+Authors@R: person('David', 'Mateos', email = 'cldav.privmath@gmail.com', role = c('cre', 'aut'))
+Description: An app to find toilets in CDMX
+License: CCBY-4.0
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    shiny, 
+    golem
+RoxygenNote: 6.1.0
+URL: https://github.com/alberto-mateos-mo/wcdmx
+BugReports: https://github.com/alberto-mateos-mo/wcdmx/issues
